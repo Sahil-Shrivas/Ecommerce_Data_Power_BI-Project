@@ -57,9 +57,11 @@ This repository contains a complete Power BI dashboard project for an e-commerce
    cd Sahil-Store-Ecommerce-Data-Power-BI
 3. Launch Power BI Desktop and open Sahil Ecommerce Sale Dashboard.pbix.
 4. In Power BI:
+
    . Use the Data view to inspect loaded tables and columns.
 
    . Use the Model view to examine relationships and calculated measures (DAX).
 
    . Use the Report view to interact with visuals, slicers and drill-through pages.
 5. If you prefer to build the report from scratch, import Orders.csv and Details.csv into Power BI and recreate visuals.
+
