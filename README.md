@@ -18,7 +18,6 @@ This repository contains a complete Power BI dashboard project for an e-commerce
     ├── Dashboard Screenshot.png # Screenshot of the dashboard visuals
     ├── background image.jpg # Background/branding asset used in the report
     └── README.md # This file
-*(Files above were reviewed in the repository.)* :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -38,7 +37,7 @@ This repository contains a complete Power BI dashboard project for an e-commerce
 - **Orders.csv** — transactional header-level data (one row per order). Typical fields: order id, order date, customer or region fields, total order value, etc.
 - **Details.csv** — order-line / product-level data (one row per product in an order). Typical fields: order id, product id/name, quantity, unit price, line total, category, etc.
 
-> Note: Column names and exact fields may vary — open the CSV files to confirm schema before importing. :contentReference[oaicite:3]{index=3}
+> Note: Column names and exact fields may vary — open the CSV files to confirm schema before importing.
 
 ---
 
@@ -56,3 +55,11 @@ This repository contains a complete Power BI dashboard project for an e-commerce
    ```bash
    git clone https://github.com/Sahil-Shrivas/Sahil-Store-Ecommerce-Data-Power-BI.git
    cd Sahil-Store-Ecommerce-Data-Power-BI
+3. Launch Power BI Desktop and open Sahil Ecommerce Sale Dashboard.pbix.
+4. In Power BI:
+   . Use the Data view to inspect loaded tables and columns.
+
+   . Use the Model view to examine relationships and calculated measures (DAX).
+
+   . Use the Report view to interact with visuals, slicers and drill-through pages.
+5. If you prefer to build the report from scratch, import Orders.csv and Details.csv into Power BI and recreate visuals.
