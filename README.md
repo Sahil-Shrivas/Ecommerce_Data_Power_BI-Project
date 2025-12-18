@@ -65,3 +65,5 @@ This repository contains a complete Power BI dashboard project for an e-commerce
    . Use the Report view to interact with visuals, slicers and drill-through pages.
 5. If you prefer to build the report from scratch, import Orders.csv and Details.csv into Power BI and recreate visuals.
 
+
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/Ecommerce_Data_Power_BI-Project/refs/heads/main/Dashboard%20Screenshot.png)
